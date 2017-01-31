@@ -1,1 +1,2 @@
-# 1000History
+npm i
+gulp --watch
